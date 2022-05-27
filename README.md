@@ -6,4 +6,4 @@
 https://tgvampires.com
 
 
-[![ForTheBadge made-with-html](http://ForTheBadge.com/images/badges/made-with-html.svg)](https://g.co/kgs/eBFvHA)
+[![Made With Html!](https://badgen.net/badge/%20MADE-WITH%20/HTML/red)](https://g.co/kgs/eBFvHA)
