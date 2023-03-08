@@ -1,4 +1,4 @@
-## First Attempt To Create e Website
+## First Attempt To Create a Website
 
  CHECK IT OUT 👇
  
